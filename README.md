@@ -1,15 +1,15 @@
 <h1 align="center">Hi , I'm Federico Oteiza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+Currently studying Information Technologies at Universidad ORT Uruguay, where I’m in my third semester. <br/><br/>
+Passionate about web development and application development, and I enjoy creating projects that combine functionality with good design. <br/><br/>
+In the future, I’d love to explore Artificial Intelligence and Machine Learning, as I’m fascinated by how technology can learn and evolve to solve complex problems. <br/><br/>
 
-- 🎓 I’m currently a second-year IT student.
-
-- 🔭 I’m currently studying:
+- 🔭 Currently studying:
 
   -  Data structures and algorithms
 
   -  Entity Framework
 
-- 💡 I'm interested in software development, IA, and exploring how technology can simplify everyday life.
 ## My Skills Include
 
 <h4> Languages </h4>
