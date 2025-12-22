@@ -31,6 +31,7 @@ In the future, I’d love to explore Artificial Intelligence and Machine Learnin
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
 <h4> IDE </h4>
